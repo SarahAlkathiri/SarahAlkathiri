@@ -1,6 +1,6 @@
 # Hi, I'm Sarah 👋
 
-I'm a data analyst with an MSc in Artificial Intelligence. I like taking messy real-world data, especially Saudi data, and turning it into something people can actually make decisions with.
+I'm a data analyst with an MSc in Artificial Intelligence. I like taking messy real-world data, from Saudi Arabia and from different fields like healthcare, media, real estate and business, and turning it into something people can actually make decisions with.
 
 🌐 **Portfolio:** [sarahalkathiri.github.io](https://sarahalkathiri.github.io)
 📫 **Email:** sarakath91@gmail.com
