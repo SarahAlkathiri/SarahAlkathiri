@@ -1,6 +1,6 @@
 # Hi, I'm Sarah 👋
 
-I'm a data analyst with an MSc in Artificial Intelligence. I like taking messy real-world data and turning it into something people can actually make decisions with. I work with data from different sources, like Kaggle, open government data and company datasets, across fields such as healthcare, media, real estate and business.
+I'm a data analyst with an MSc in Artificial Intelligence. I like taking messy real-world data and turning it into something people can actually make decisions with. I work with data from different sources, like Kaggle, open government data and company datasets, across fields such as healthcare, media and business.
 
 🌐 **Portfolio:** [sarahalkathiri.github.io](https://sarahalkathiri.github.io)
 📫 **Email:** sarakath91@gmail.com
@@ -11,12 +11,6 @@ I'm a data analyst with an MSc in Artificial Intelligence. I like taking messy r
 **Machine learning & NLP:** scikit-learn · Gradient Boosting · PyTorch · Hugging Face · BERT / RoBERTa
 
 ## Projects
-
-### 🏠 Saudi property prices since 2020
-1.36M real sale deals from the Ministry of Justice. Prices per m² almost tripled between 2020 and 2024, and inside Riyadh the most expensive district is ~37× the cheapest. I also built a price model and tested it on 2025–26 deals it never saw (R² 0.77).
-**Python · Pandas · scikit-learn** → [Project](https://github.com/SarahAlkathiri/sarahalkathiri.github.io/tree/main/projects/saudi-real-estate)
-
-<img src="https://raw.githubusercontent.com/SarahAlkathiri/sarahalkathiri.github.io/main/projects/saudi-real-estate/images/cover.png" width="600">
 
 ### 🏨 What do hotel guests in Makkah & Madinah complain about?
 2,100 Arabic reviews. A small AI model reads each review's sentiment (~94% accuracy), then all the analysis is in Excel: complaint topics, a hotel × topic heatmap, and "hidden complaints" where guests gave high stars but wrote negative text.
