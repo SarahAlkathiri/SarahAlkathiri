@@ -18,6 +18,10 @@ I'm a data analyst with an MSc in Artificial Intelligence. I like taking messy r
 
 <img src="https://raw.githubusercontent.com/SarahAlkathiri/sarahalkathiri.github.io/main/projects/saudi-real-estate/images/cover.png" width="600">
 
+### 🚨 Who's about to quit? Attrition early warning in Excel
+Every employee gets a 0–100 risk score from seven signals (time since last raise, pay vs peers, satisfaction, performance drop, overtime, time since promotion, career stage), with the main reason and a suggested action. Includes a manager dashboard and an interactive employee card.
+**Excel** → [Project](https://github.com/SarahAlkathiri/sarahalkathiri.github.io/tree/main/projects/hr-attrition-early-warning)
+
 ### 💼 HR & finance system in Excel
 One connected workbook for Saudi businesses: payroll with GOSI (old and new system), end-of-service calculator (Articles 84 & 85), leave balances, 15% VAT invoices and returns, budget vs actual, and a dashboard.
 **Excel** → [Project](https://github.com/SarahAlkathiri/sarahalkathiri.github.io/tree/main/projects/saudi-hr-finance-system)
