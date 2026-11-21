@@ -18,6 +18,10 @@ I'm a data analyst with an MSc in Artificial Intelligence. I like taking messy r
 
 <img src="https://raw.githubusercontent.com/SarahAlkathiri/sarahalkathiri.github.io/main/projects/saudi-real-estate/images/cover.png" width="600">
 
+### 🏨 What do hotel guests in Makkah & Madinah complain about?
+2,100 Arabic reviews. A small AI model reads each review's sentiment (~94% accuracy), then all the analysis is in Excel: complaint topics, a hotel × topic heatmap, and "hidden complaints" where guests gave high stars but wrote negative text.
+**Excel · Python · Sentiment analysis** → [Project](https://github.com/SarahAlkathiri/sarahalkathiri.github.io/tree/main/projects/hotel-reviews-ai)
+
 ### 🚨 Who's about to quit? Attrition early warning in Excel
 Every employee gets a 0–100 risk score from seven signals (time since last raise, pay vs peers, satisfaction, performance drop, overtime, time since promotion, career stage), with the main reason and a suggested action. Includes a manager dashboard and an interactive employee card.
 **Excel** → [Project](https://github.com/SarahAlkathiri/sarahalkathiri.github.io/tree/main/projects/hr-attrition-early-warning)
